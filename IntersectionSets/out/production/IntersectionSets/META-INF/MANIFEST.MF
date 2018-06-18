@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: log4j-1.2.11.jar mpj.jar
+Main-Class: com.example.MainMpi
+

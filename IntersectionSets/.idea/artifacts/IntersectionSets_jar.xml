@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="IntersectionSets:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntersectionSets_jar</output-path>
+    <root id="root">
+      <element id="archive" name="IntersectionSets.jar">
+        <element id="module-output" name="IntersectionSets" />
+      </element>
+      <element id="library" level="project" name="log4j-1.2.11" />
+      <element id="library" level="project" name="mpj" />
+    </root>
+  </artifact>
+</component>
